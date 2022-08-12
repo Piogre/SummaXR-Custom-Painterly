@@ -6,7 +6,7 @@
 ### Wahrheit -- creative director of this pack
 ### Piogre -- curator and gap-filler of this pack
 
-textures in textures/customnoredist were acquired by paid non-redistribution license
+textures in textures/customnoredist were acquired by paid non-redistribution license .  If they are included in redistributable source, they are done so in error
 
 Contributors from the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
     Twerps3
