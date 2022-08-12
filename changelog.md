@@ -1,17 +1,17 @@
 Moved goddamn everything to github, updated release process and readme
 updated pack format to 9
--------------------------
+---
 The Checksum of the previous pack below: CDBAB892EC6B5FDEF1DAF4F19F65A3FF5F16BDC9 
--------------------------
+---
 1.18v1.1
 fixed chime armor variants for latest chime version
 fixed shading of deepslate ores to match deepslate texture better
 added support for Henkelmax voice chat mod https://github.com/henkelmax/simple-voice-chat as it's now supported by the SummaXR server
 changed fire to dazzling red fire from original painterly
 fixed social interactions screen to include compass
--------------------------
+---
 The Checksum of the previous pack below: 27E714193196C90214D3B168703DE1E37164C226
--------------------------
+---
 1.18v1.0
 updated pack format to 8
 updated en_us.json and splashes.txt to match vanilla
@@ -19,22 +19,22 @@ adjusted inventory image to include truncated status square (this is the compati
 added "otherside" music disc
 updated emotes to match discord
 added stub for optifine water as soon as we find a way to load different water textures in optifine than in vanilla
--------------------------
+---
 The Checksum of the previous pack below: 6202D44664D00E5EF820FF95DD0B359DDA2E309B
--------------------------
+---
 1.17v1.2
 Added new CMD textures for Adventurer's Crystal and New Player Guide
 updated feature-compatibility version character
--------------------------
+---
 The Checksum of the previous pack below: 7469CDEFBAE1C7B04B93F95547A687EA22A56313
--------------------------
+---
 1.17v1.1
 Revised Tuff texture based on feedback
 Made wheat a bit taller based on request
 updated feature-compatibility version character
--------------------------
+---
 The Checksum of the previous pack below: E6F6D9B237530AB8B8B1A57D8A6EDCA0F35443A4
--------------------------
+---
 1.17v1.0
 Many changes for 1.17 (listed as individual changes)
 updated pack format to 7
@@ -85,9 +85,9 @@ Added in temporary mixology items, sprites made by Wahrheit
 
 In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
     fortis
--------------------------
+---
 The Checksum of the previous pack below: 2318B0FFB97538B5A336EC7488415F73948211B9
--------------------------
+---
 1.16v3.2
 added seam to non-smooth quartz block
 fixed fire overlay in furnace gui
@@ -112,9 +112,9 @@ This update added several emotes commonly used on the discord
 The graphics for emotes, like their discord counterparts, are sourced from https://twemoji.twitter.com/
 Copyright 2020 Twitter, Inc and other contributors
 Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
--------------------------
+---
 The Checksum of the previous pack below: 8ACE979059CD99D26E922E38C87775D8C40F0504
--------------------------
+---
 1.16v3.1
 Revised Arrakis Waypoint Icon
 Adjusted Pack description
@@ -125,9 +125,9 @@ Revised menus textures to:
     -this will require redoing the existing menus in the server, sorry.  should be easier this time.
 Revised namespaces for tiered equipment
 fixed fishing rod orientation on tiered rods
--------------------------
+---
 The Checksum of the previous pack below: 5822661983840D5D7F85949F538844AEA8EA0E40
--------------------------
+---
 1.16v3.0
 Added glazed terracotta from contributions on the Discord
 Added Nether Star texture
@@ -191,9 +191,9 @@ Added font to accommodate custom menues
 Armor reskins support optifine and chime
 
 This pack makes use of negative space font characters, derived originally from AmberW, licensed under CC https://www.spigotmc.org/threads/negative-space-font-resource-pack.440952/
--------------------------
+---
 The Checksum of the previous pack below: FB2B3E27F16097854B866CC3E07D49FB0A9733D5
--------------------------
+---
 1.16v2.6
 Adjusted container title bars to account for custom container titles
 Revised the villager GUI
@@ -206,9 +206,9 @@ Added new versions of multiple 1.16 nether textures from contributions on the Di
     warped/crimson bark
 In addition to contributors to previous versions of this pack, this version includes contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
     fortis
--------------------------
+---
 The Checksum of the previous pack below: B48676BDD1FF74B2B45E577DC566828277E80174
--------------------------
+---
 1.16v2.5
 Revised Stripped log texture
 Changed soul soil texture
@@ -226,25 +226,25 @@ In addition to contributors to previous versions of this pack, this version incl
     Twerps3
     Mercuriomc
     Morlaer
--------------------------
+---
 1.16v2.4
 Revised colors of regular terracotta and shulker boxes to be less dull
 fixed "nether" background in advancements to match current netherrack
 fixed visual bug with enchanted tridents
--------------------------
+---
 1.16v2.3
 Adjusted water texture to be slightly greener
 fixed textures for tallgrass, doubletall grass, fern, and tall fern
 re-rendered pack.png and panorama to reflect the above
--------------------------
+---
 1.16v2.2
 This is a non-functional change to the below, changing pack_format to 6 to be compatible with 1.16.2
--------------------------
+---
 1.16v2
 The contained pack is an expansion of the pack described below, all alterations and additions made by Piogre, to add coverage of textures that weren't covered in previous painterly pack iterations.
 Some additions are modified versions of textures provided as alternate options in the original Painterly pack by Rhodox.
 This pack is intended for use by the SummaXR server, but may be distributed at the discretion of the server owner.
--------------------------
+---
 1.16v1
 The contained pack is an effort by Piogre to convert the SummaXR Custom Painterly pack to 1.16 as completely and accurately as possible.
 The Painterly pack was originally created by Rhodox http://painterlypack.net/, and continued additions were made to the pack by GerbilCrab475 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2745841-painterly-pack-continuation-project-fan-patch
