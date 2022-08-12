@@ -1,6 +1,8 @@
-Moved goddamn everything to github, updated release process and readme
+Moved goddamn everything to github, updated text documents
 updated pack format to 9
+
 ---
+
 The Checksum of the previous pack below: CDBAB892EC6B5FDEF1DAF4F19F65A3FF5F16BDC9 
 ---
 1.18v1.1
