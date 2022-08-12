@@ -1,4 +1,5 @@
 -----future-future
+
     Next version:
         lang changes
         splashes changes
@@ -54,13 +55,16 @@
             shriek particle
             sonic boom particle
             realms checkmark
+            
     When i get to it:
         failsafe text for inventory menus
         custom leather?  see what oraxen does
         move this whole ass thing to git?
+        
     On request:
         supporter skins?
         supporter waypoints?
+        
     Awaiting third party:
         emotes (pending wahr actually using them)
         revisit water? (have this working with optifine but it breaks for non-optifine; been asking about a way to load one-or-other)
