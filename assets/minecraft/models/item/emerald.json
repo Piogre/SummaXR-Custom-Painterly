@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/emerald"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":100001}, "model": "custom/special_drops/gemattack"},
+    {"predicate": {"custom_model_data":100002}, "model": "custom/special_drops/gemdefense"},
+    {"predicate": {"custom_model_data":100003}, "model": "custom/special_drops/gemutility"},
+    {"predicate": {"custom_model_data":100004}, "model": "custom/special_drops/xpsliver"},
+    {"predicate": {"custom_model_data":100005}, "model": "custom/special_drops/xpchunk"},
+    {"predicate": {"custom_model_data":100006}, "model": "custom/special_drops/xpbillet"},
+    {"predicate": {"custom_model_data":100007}, "model": "custom/special_drops/xpbloom"},
+    {"predicate": {"custom_model_data":100008}, "model": "custom/special_drops/xpingot"}
+  ]
+}

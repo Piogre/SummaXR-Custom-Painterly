@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "custom/special_gear/sharpshooter_bow_pulling_1"
+    }
+}

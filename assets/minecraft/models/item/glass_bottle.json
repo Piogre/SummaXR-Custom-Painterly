@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/glass_bottle"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":111100}, "model": "custom/cuisine/whiskey_bottle_empty"},
+    {"predicate": {"custom_model_data":111200}, "model": "custom/cuisine/vodka_bottle_empty"},
+    {"predicate": {"custom_model_data":111600}, "model": "custom/cuisine/tequila_bottle_empty"},
+    {"predicate": {"custom_model_data":111800}, "model": "custom/cuisine/generic_lager_bottle_empty"}
+  ]
+}

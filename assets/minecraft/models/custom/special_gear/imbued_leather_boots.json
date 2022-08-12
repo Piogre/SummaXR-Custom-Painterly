@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:custom/special_gear/imbued_leather_boots",
+    "layer1": "minecraft:custom/special_gear/imbued_leather_boots_overlay"
+  }
+}

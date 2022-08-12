@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_boots",
+    "layer1": "minecraft:item/leather_boots_overlay"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":101001}, "model": "custom/special_gear/chime/smoldering_leather_boots"},
+    {"predicate": {"custom_model_data":110000}, "model": "custom/minimal_armor/leather_boots_minimal"},
+    {"predicate": {"custom_model_data":111001}, "model": "custom/minimal_armor/smoldering_leather_boots_minimal"}
+  ]
+}

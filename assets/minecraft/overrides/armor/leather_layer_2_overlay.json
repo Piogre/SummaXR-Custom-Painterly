@@ -1,0 +1,7 @@
+{
+	"overrides": [
+		{"predicate": {"nbt":{"CustomModelData": "111001..111001"}},"texture": "optifine/cit/armor/smoldering_leather_minimal_2_overlay"},
+		{"predicate": {"nbt":{"CustomModelData": "110000..110000"}},"texture": "optifine/cit/armor/leather_minimal_2_overlay"},
+		{"predicate": {"nbt":{"CustomModelData": "101001..101001"}},"texture": "optifine/cit/armor/smoldering_leather_2_overlay"}
+	]
+}

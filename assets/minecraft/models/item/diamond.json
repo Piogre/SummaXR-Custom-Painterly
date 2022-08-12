@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/diamond"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":100001}, "model": "custom/ui/imbued_tools"},
+    {"predicate": {"custom_model_data":100002}, "model": "custom/ui/imbued_weapons"},
+    {"predicate": {"custom_model_data":100003}, "model": "custom/ui/burnished_tools"},
+    {"predicate": {"custom_model_data":100004}, "model": "custom/ui/burnished_weapons"}
+  ]
+}

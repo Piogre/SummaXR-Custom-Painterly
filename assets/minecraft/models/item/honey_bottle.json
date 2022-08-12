@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/honey_bottle"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":110100}, "model": "custom/cuisine/whiskey_bottle"},
+    {"predicate": {"custom_model_data":110200}, "model": "custom/cuisine/vodka_bottle"},
+    {"predicate": {"custom_model_data":110600}, "model": "custom/cuisine/tequila_bottle"},
+    {"predicate": {"custom_model_data":110800}, "model": "custom/cuisine/generic_lager_bottle"}
+  ]
+}

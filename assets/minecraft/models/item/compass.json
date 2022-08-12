@@ -1,0 +1,14 @@
+{"parent": "item/generated","textures": {"layer0": "item/compass/compass_006"},"overrides": [ 
+	{"predicate":{"angle":0.0000000},"model":"item/compass"},
+	{"predicate":{"angle":0.0416666666667},"model":"item/compass/compass_007"},
+	{"predicate":{"angle":0.125},"model":"item/compass/compass_008"},
+	{"predicate":{"angle":0.208333333333},"model":"item/compass/compass_009"},
+	{"predicate":{"angle":0.291666666667},"model":"item/compass/compass_010"},
+	{"predicate":{"angle":0.375},"model":"item/compass/compass_011"},
+	{"predicate":{"angle":0.458333333333},"model":"item/compass/compass_000"},
+	{"predicate":{"angle":0.541666666667},"model":"item/compass/compass_001"},
+	{"predicate":{"angle":0.625},"model":"item/compass/compass_002"},
+	{"predicate":{"angle":0.708333333333},"model":"item/compass/compass_003"},
+	{"predicate":{"angle":0.791666666667},"model":"item/compass/compass_004"},
+	{"predicate":{"angle":0.875},"model":"item/compass/compass_005"},
+	{"predicate":{"angle":0.958333333333},"model":"item/compass"}]}

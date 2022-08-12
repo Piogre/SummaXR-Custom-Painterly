@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_sword"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":100001}, "model": "custom/basic_weapons/golden_chain"},
+    {"predicate": {"custom_model_data":102001}, "model": "custom/special_gear/bountiful_blade"},
+    {"predicate": {"custom_model_data":102002}, "model": "custom/special_gear/withering_blade"}
+  ]
+}

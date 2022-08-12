@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_chestplate",
+    "layer1": "minecraft:item/leather_chestplate_overlay"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":101000}, "model": "custom/special_gear/imbued_leather_chestplate"},
+    {"predicate": {"custom_model_data":110000}, "model": "item/leather_chestplate"},
+    {"predicate": {"custom_model_data":111000}, "model": "custom/special_gear/imbued_leather_chestplate"}
+  ]
+}

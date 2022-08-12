@@ -1,0 +1,11 @@
+{
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "block/iron_bars_alt",
+        "bars": "block/iron_bars_alt",
+        "edge": "block/iron_bars_alt"
+    },
+    "elements": [
+
+    ]
+}

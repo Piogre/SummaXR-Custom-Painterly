@@ -1,0 +1,13 @@
+{
+    "overrides": [
+		{"predicate": {"nbt":{"CustomModelData": "101000..101000"}},"texture": "optifine/cit/armor/imbued_diamond_1"},
+		{"predicate": {"nbt":{"CustomModelData": "102000..102000"}},"texture": "optifine/cit/armor/burnished_diamond_1"},
+		{"predicate": {"nbt":{"CustomModelData": "102001..102001"}},"texture": "optifine/cit/armor/sdk_diamond_1"},
+		{"predicate": {"nbt":{"CustomModelData": "103000..103000"}},"texture": "optifine/cit/armor/emblazoned_diamond_1"},
+		{"predicate": {"nbt":{"CustomModelData": "110000..110000"}},"texture": "optifine/cit/armor/diamond_minimal_1"},
+		{"predicate": {"nbt":{"CustomModelData": "111000..111000"}},"texture": "optifine/cit/armor/imbued_diamond_minimal_1"},
+		{"predicate": {"nbt":{"CustomModelData": "112000..112000"}},"texture": "optifine/cit/armor/burnished_diamond_minimal_1"},
+		{"predicate": {"nbt":{"CustomModelData": "112001..112001"}},"texture": "optifine/cit/armor/sdk_diamond_minimal_1"},
+		{"predicate": {"nbt":{"CustomModelData": "113000..113000"}},"texture": "optifine/cit/armor/emblazoned_diamond_minimal_1"}
+	]
+}

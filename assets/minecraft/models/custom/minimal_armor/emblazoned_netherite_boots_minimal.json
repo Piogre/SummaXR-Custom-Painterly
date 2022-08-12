@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:custom/minimal_armor/emblazoned_netherite_boots_minimal"
+  }
+}

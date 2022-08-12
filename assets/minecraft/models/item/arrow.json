@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/arrow"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":100001}, "model": "custom/ui/leftarrow"},
+    {"predicate": {"custom_model_data":100002}, "model": "custom/ui/rightarrow"},
+    {"predicate": {"custom_model_data":100003}, "model": "custom/ui/downarrow"},
+    {"predicate": {"custom_model_data":100004}, "model": "custom/ui/uparrow"}
+  ]
+}

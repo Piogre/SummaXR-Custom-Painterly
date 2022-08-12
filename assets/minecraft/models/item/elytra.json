@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/elytra"
+    },
+    "overrides": [
+        { "predicate": {"broken": 1}, "model": "item/broken_elytra" },
+		{ "predicate": {"custom_model_data":102001}, "model":"custom/special_gear/wind_mage_elytra"},
+		{ "predicate": {"custom_model_data":102001, "broken": 1}, "model":"custom/special_gear/wind_mage_elytra_broken"}
+    ]
+}

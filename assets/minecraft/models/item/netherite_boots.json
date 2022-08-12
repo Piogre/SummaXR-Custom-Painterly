@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/netherite_boots"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":101000}, "model": "custom/special_gear/imbued_netherite_boots"},
+    {"predicate": {"custom_model_data":102000}, "model": "custom/special_gear/burnished_netherite_boots"},
+    {"predicate": {"custom_model_data":103000}, "model": "custom/special_gear/emblazoned_netherite_boots"},
+    {"predicate": {"custom_model_data":110000}, "model": "item/netherite_boots"},
+    {"predicate": {"custom_model_data":111000}, "model": "custom/special_gear/imbued_netherite_boots"},
+    {"predicate": {"custom_model_data":112000}, "model": "custom/special_gear/burnished_netherite_boots"},
+    {"predicate": {"custom_model_data":113000}, "model": "custom/special_gear/emblazoned_netherite_boots"}
+  ]
+}

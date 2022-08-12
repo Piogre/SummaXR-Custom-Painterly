@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "custom/special_gear/emblazoned_bow_pulling_1"
+    }
+}

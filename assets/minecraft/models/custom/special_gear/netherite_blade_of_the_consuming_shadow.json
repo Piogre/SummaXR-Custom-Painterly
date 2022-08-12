@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:custom/special_gear/netherite_blade_of_the_consuming_shadow"
+  }
+}

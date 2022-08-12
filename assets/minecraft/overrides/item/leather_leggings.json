@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_leggings",
+    "layer0": "minecraft:item/leather_leggings_overlay"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data":101001}, "model": "custom/special_gear/chime/smoldering_leather_leggings"},
+    {"predicate": {"custom_model_data":110000}, "model": "custom/minimal_armor/leather_leggings_minimal"},
+    {"predicate": {"custom_model_data":111001}, "model": "custom/minimal_armor/smoldering_leather_leggings_minimal"}
+  ]
+}

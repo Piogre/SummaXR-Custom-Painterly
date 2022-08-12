@@ -1,0 +1,138 @@
+This tracks the use of specially-implemented characters in the font file for feature support.
+=============================================================================================
+
+================GUI Images
+E000 - blackstone-base-6
+E001 - blackstone-grid-1-6
+E002 - blackstone-base-5
+E003 - blackstone-grid-3-5
+E004 - sunbeams
+E005 - darkmatter
+E006 - Item Potential Title
+E007 - green-base-6
+E008 - green-grid-2-5
+E009 - Mini Golf Rentals Title
+E00A - sunbeams lower
+E00B - picture-base-6
+E00C - Active Quests Title
+E00D - Available Quests Title
+E00E - Arcane Forging Title
+E00F - Artificing Title
+E010 - Investments Title
+E011 - Waypoints Title
+E012 - picture-bg-0
+E013 - picture-bg-1
+E014 - picture-bg-2
+E015 - picture-bg-3
+E016 - picture-bg-4
+E017 - picture-bg-5
+E018 - picture-bg-6
+E019 - picture-bg-7
+E01A - picture-bg-8
+E01B - picture-bg-9
+E01C - green-inv-6
+E01D - blackstone-inv-6
+E01E - blackstone-inv-5
+E01F - picture-inv-6
+E020 - blackstone-slots-3-5
+E021 - Login Rewards Title
+E022 - Blessings Title
+================Spacing Pixels
+F800 - pixel_split -32770
+F801 - pixel_split -3
+F802 - pixel_split -4
+F803 - pixel_split -5
+F804 - pixel_split -6
+F805 - pixel_split -7
+F806 - pixel_split -8
+F807 - pixel_split -9
+F808 - pixel_split -10
+F809 - pixel_split -18
+F80A - pixel_split -34
+F80B - pixel_split -66
+F80C - pixel_split -130
+F80D - pixel_split -258
+F80E - pixel_split -514
+F80F - pixel_split -1026
+F810 - pixel_nosplit -32770
+F811 - pixel_nosplit -3
+F812 - pixel_nosplit -4
+F813 - pixel_nosplit -5
+F814 - pixel_nosplit -6
+F815 - pixel_nosplit -7
+F816 - pixel_nosplit -8
+F817 - pixel_nosplit -9
+F818 - pixel_nosplit -10
+F819 - pixel_nosplit -18
+F81A - pixel_nosplit -34
+F81B - pixel_nosplit -66
+F81C - pixel_nosplit -130
+F81D - pixel_nosplit -258
+F81E - pixel_nosplit -514
+F81F - pixel_nosplit -1026
+F820 - pixel_split 32767
+F821 - pixel_split 0
+F822 - pixel_split 1
+F823 - pixel_split 2
+F824 - pixel_split 3
+F825 - pixel_split 4
+F826 - pixel_split 5
+F827 - pixel_split 6
+F828 - pixel_split 7
+F829 - pixel_split 15
+F82A - pixel_split 31
+F82B - pixel_split 63
+F82C - pixel_split 127
+F82D - pixel_split 255
+F82E - pixel_split 511
+F82F - pixel_split 1023
+F830 - pixel_nosplit 32767
+F831 - pixel_nosplit 0
+F832 - pixel_nosplit 1
+F833 - pixel_nosplit 2
+F834 - pixel_nosplit 3
+F835 - pixel_nosplit 4
+F836 - pixel_nosplit 5
+F837 - pixel_nosplit 6
+F838 - pixel_nosplit 7
+F839 - pixel_nosplit 15
+F83A - pixel_nosplit 31
+F83B - pixel_nosplit 63
+F83C - pixel_nosplit 127
+F83D - pixel_nosplit 255
+F83E - pixel_nosplit 511
+F83F - pixel_nosplit 1023
+================Emotes
+F840 - thankful
+F841 - savagepinhead
+F842 - pride
+F843 - kappa
+F844 - darkmatter
+F845 - diamond_sword_sxr
+F846 - gtav
+F847 - halomp
+F848 - retweet
+F849 - heartcontainer
+================Emotes (Unicode Defined)
+These emotes, like their discord counterparts, are sourced from https://twemoji.twitter.com/
+Copyright 2020 Twitter, Inc and other contributors
+Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+----------------
+2764 - heart
+1F440 - eyes
+1F44B - wave
+1F44D - thumbsup
+1F480 - skull
+1F525 - fire
+1F604 - smile
+1F606 - laughing
+1F609 - wink
+1F60E - sunglasses
+1F61B - stuck out tongue
+1F62E - open mouth
+1F642 - slight smile
+1F64F - pray
+1F923 - rofl
+1F937 - person shrugging (using image for "woman shrugging")
+================Version Character
+F0000 - Version Character (1.17v1.2 in #3(dark_aqua|#00AAAA))
