@@ -1,10 +1,10 @@
 # Included here is as full a list I can find of contributors:
----
-Rhodox -- created original painterly pack
-GerbilCrab475 -- creator of painterly continuation project
 
-Wahrheit -- creative director of this pack
-Piogre -- curator and gap-filler of this pack
+### Rhodox -- created original painterly pack
+### GerbilCrab475 -- creator of painterly continuation project
+
+### Wahrheit -- creative director of this pack
+### Piogre -- curator and gap-filler of this pack
 
 textures in textures/customnoredist were acquired by paid non-redistribution license
 
