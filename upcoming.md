@@ -1,5 +1,3 @@
------future-future
-
     Next version:
         lang changes
         splashes changes
