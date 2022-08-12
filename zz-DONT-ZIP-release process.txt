@@ -1,0 +1,17 @@
+make sure to change font back to sxrmenus
+make sure font guide and cmd quicksheet up to date
+make sure if new MC version, fix texts/splashes and lang/en_us
+search for hanging temp files
+review for any missing changelog entries
+review for any obsolete upcoming entries
+update vanilla pack with changes
+update personal pack for compatibility
+check voice chat compatibility
+update the version image in custom folder
+update meta and readmes with version, and info if major changes
+
+zip packs, move old zips to old packs
+post packs on discord
+get the new checksum and post on discord, add to changelog
+update tinyurl.com/summaxrpack
+update custommodeldata in wahr's repo, and any changes seen fit
