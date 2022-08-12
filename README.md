@@ -10,7 +10,7 @@ A full list of acknowledgements can be found in acknowledgements.txt
 
 ---
 
-    
+    This pack was moved to github, resulting in some structural changes.  a new build did not accompany this change, but the next new build will be on github.
 
     Previous iterations of the readme are included below:
 
