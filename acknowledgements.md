@@ -1,4 +1,4 @@
-#Included here is as full a list I can find of contributors:
+# Included here is as full a list I can find of contributors:
 ---
 Rhodox -- created original painterly pack
 GerbilCrab475 -- creator of painterly continuation project
