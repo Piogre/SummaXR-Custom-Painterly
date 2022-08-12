@@ -1,7 +1,5 @@
 # Piogre's SummaXR Painterly Pack Build 1.18v1.1
 
----
-
 This pack is intended for use by the SummaXR server as a server resource pack.
 
 It is curated from original Rhodox Painterly textures, Piogre's additions, and other contributions.
