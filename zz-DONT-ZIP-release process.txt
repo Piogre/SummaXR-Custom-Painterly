@@ -8,6 +8,7 @@ update vanilla pack with changes
 check voice chat compatibility
 update the version image in custom folder
 update meta and readmes with version, and info if major changes
+make sure customnoredist is propagated manually if updated
 
 get the new checksum
 zip packs, create release with checksum
