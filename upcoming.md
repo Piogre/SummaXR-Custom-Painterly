@@ -1,59 +1,72 @@
     Next version:
         lang changes
         splashes changes
-        check shield
-        check brewing stand
-        check cocoa
-        check end rod
-        check iron golem
-        check leather armor
-        new textures
+        CHECK
+            doors
+            iron bars
+            trapdoors
+            carpet
+            dripstone
+            realms checkmark?
+            cocoa beans
+            end rod
+            iron golem
+            vindicator
+            llamas
+            gui chat tags?
+            boat, chest boat items
+            leather armor
+        NEW
+            skulk particles
+            shriek particle
+            skulk
+                block
+                catalyst bottom side bloom top topbloom
+                shrieker bottom innerboth side top
+                vein
+            sonic boom particle
             frogspawn
-            mangrove door top/bottom
-            mangrove leaves
-            mangrove log/top
-            mangrove planks
-            mangrove propagule/hanging
-            mangrove roots top/side
-            mangrove trapdoor
+            mangrove
+                door top bottom
+                leaves
+                log
+                log top
+                planks
+                propagule + hanging
+                roots side, top
+                trapdoor
+                muddy roots side, top
+                stripped log side top
+                sign entity
+                door item
+                boat/chestboat items
+                propagule item
+                sign item
             mud
             mud bricks
-            muddy mangrove roots top/side
-            ochre froglight top/side
             packed mud
-            pearlescent froglight top/side
-            reinforced deepslate top/bottom/side
-            sculk
-            sculk catalyst top/side
-            sculk catalyst top/side bloom
-            sculk shrieker top/side/bottom
-            sculk shrieker inner/can summon
-            sculk vein
-            stripped mangrove log/top
-            verdant froglight top/side
-            allay
-            boat mangrove
-            chest boat ALL
-            frog cold/temperate/warm
-            sign mangrove
-            tadpole
-            warden ALL
-            chest boat item ALL
+            froglight
+                ochre side top
+                pearl side top
+                verdant side top
+            reinforced deepslate bottom side top
+            allay entity
+            mangrove boat entity
+            chest boats all entity
+            cold frog entity
+            temp frog entity
+            warm frog entity
+            tadpool entity
+            warden entity, biolum, heart, pulsboth
+            gui report button
             disc fragment
-            echo shard
+            disc 5
             goat horn
-            mangrove items all
-            music disc 5
-            recovery compass lol
+            recovery compass all
             tadpole bucket
-            darkness effect icon
-            paintings elements
-            sculk charge particles
-            sculk soul particles
-            shriek particle
-            sonic boom particle
-            realms checkmark
-            
+            darkness icon
+            paintings
+
     When i get to it:
         failsafe text for inventory menus
         custom leather?  see what oraxen does
