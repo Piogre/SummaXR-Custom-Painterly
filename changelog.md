@@ -2,6 +2,16 @@ Moved goddamn everything to github, updated text documents
 
 updated pack format to 9
 
+Updated lang file, splashes for new version
+
+added mangrove & derivatives etc
+
+added mud & derivatives
+
+In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
+    fortis
+    Wolf Waifu~
+
 ---
 
 The Checksum of the previous pack below: CDBAB892EC6B5FDEF1DAF4F19F65A3FF5F16BDC9 

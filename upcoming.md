@@ -1,6 +1,4 @@
     Next version:
-        lang changes
-        splashes changes
         CHECK
             doors
             iron bars
@@ -16,6 +14,7 @@
             gui chat tags?
             boat, chest boat items
             leather armor
+            redstone fix?
         NEW
             skulk particles
             shriek particle
@@ -28,20 +27,8 @@
             frogspawn
             mangrove
                 door top bottom
-                leaves
-                log
-                log top
-                planks
-                propagule + hanging
-                roots side, top
                 trapdoor
-                muddy roots side, top
-                stripped log side top
-                sign entity
-                door item
                 boat/chestboat items
-                propagule item
-                sign item
             mud
             mud bricks
             packed mud
