@@ -8,6 +8,12 @@ added mangrove & derivatives etc
 
 added mud & derivatives
 
+transitioned wood/leaf textures to single-contributer for consistency
+
+added chest boats, transitioned boat & minecart icon styles for consistency
+
+added earth/wind/fire/water paintings
+
 In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
     fortis
     Wolf Waifu~

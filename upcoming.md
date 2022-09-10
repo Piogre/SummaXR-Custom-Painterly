@@ -1,21 +1,15 @@
     Next version:
         CHECK
-            doors
-            iron bars
-            trapdoors
-            carpet
-            dripstone
             realms checkmark?
-            cocoa beans
-            end rod
             iron golem
             vindicator
             llamas
             gui chat tags?
-            boat, chest boat items
             leather armor
             redstone fix?
         NEW
+            cocoa beans FIX
+            doors FIX DOORS
             skulk particles
             shriek particle
             skulk
@@ -25,21 +19,12 @@
                 vein
             sonic boom particle
             frogspawn
-            mangrove
-                door top bottom
-                trapdoor
-                boat/chestboat items
-            mud
-            mud bricks
-            packed mud
             froglight
                 ochre side top
                 pearl side top
                 verdant side top
             reinforced deepslate bottom side top
             allay entity
-            mangrove boat entity
-            chest boats all entity
             cold frog entity
             temp frog entity
             warm frog entity
@@ -52,7 +37,6 @@
             recovery compass all
             tadpole bucket
             darkness icon
-            paintings
 
     When i get to it:
         failsafe text for inventory menus
