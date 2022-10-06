@@ -1,22 +1,6 @@
     Next version:
         CHECK
-            realms checkmark?
-            iron golem
-            vindicator
-            llamas
-            gui chat tags?
-            leather armor
-            redstone fix?
         NEW
-            cocoa beans FIX
-            doors FIX DOORS
-            skulk particles
-            shriek particle
-            skulk
-                block
-                catalyst bottom side bloom top topbloom
-                shrieker bottom innerboth side top
-                vein
             sonic boom particle
             frogspawn
             froglight
@@ -29,16 +13,17 @@
             temp frog entity
             warm frog entity
             tadpool entity
-            warden entity, biolum, heart, pulsboth
-            gui report button
             disc fragment
             disc 5
             goat horn
             recovery compass all
             tadpole bucket
             darkness icon
+            doors FIX DOORS
+            leather armor check opti/chime?
 
     When i get to it:
+        redstone fix?
         failsafe text for inventory menus
         custom leather?  see what oraxen does
         move this whole ass thing to git?
