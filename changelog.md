@@ -9,6 +9,20 @@
     Adjusted social interactions menu, report button and chat tags for style consistency
     fixed cocoa beans
     added sculk, warden
+    added frogs
+    added froglight
+    added frogspawn
+    added tadpole, tadpole bucket
+    added reinforced deepslate
+    added alley
+    transitioned music discs single-contributer for consistency, added music disc 5 and fragment
+    adjusted redstone torches for visual consistency
+    added goat horn
+    added darkness status icon
+    adjusted status icon background
+    transitioned compass/clock single-contributer for consistency, added recovery compass
+    adjust voice chat menu for new version
+
     In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
         fortis
         Wolf Waifu~

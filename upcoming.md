@@ -1,26 +1,7 @@
     Next version:
         CHECK
         NEW
-            sonic boom particle
-            frogspawn
-            froglight
-                ochre side top
-                pearl side top
-                verdant side top
-            reinforced deepslate bottom side top
-            allay entity
-            cold frog entity
-            temp frog entity
-            warm frog entity
-            tadpool entity
-            disc fragment
-            disc 5
-            goat horn
-            recovery compass all
-            tadpole bucket
-            darkness icon
             doors FIX DOORS
-            leather armor check opti/chime?
 
     When i get to it:
         redstone fix?
