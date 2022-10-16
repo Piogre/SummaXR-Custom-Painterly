@@ -12,7 +12,7 @@ update meta and readmes with version, and info if major changes
 make sure customnoredist is propagated manually if updated
 
 zip packs
-get the new checksum
+get the new checksum, add to changelog
 create release with checksum
 post packs on discord with checksum
 update tinyurl.com/summaxrpack

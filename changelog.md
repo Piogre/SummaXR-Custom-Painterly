@@ -1,3 +1,9 @@
+---
+
+The Checksum of the previous pack below: 679d493c452240f8031614c106182c64b6a04c11 
+
+---
+
     1.19v1.0
     Moved goddamn everything to github, updated text documents
     updated pack format to 9
