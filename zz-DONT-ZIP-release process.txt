@@ -6,12 +6,14 @@ review for any missing changelog entries
 review for any obsolete upcoming entries
 update vanilla pack with changes
 check voice chat compatibility
+check chime/optifine/vanilla CMD armor
 update the version image in custom folder
 update meta and readmes with version, and info if major changes
 make sure customnoredist is propagated manually if updated
 
+zip packs
 get the new checksum
-zip packs, create release with checksum
+create release with checksum
 post packs on discord with checksum
 update tinyurl.com/summaxrpack
 update custommodeldata in wahr's repo, and any changes seen fit

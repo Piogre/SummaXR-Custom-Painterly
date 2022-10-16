@@ -123,5 +123,5 @@
     ,{"ascent":8,"chars":["🙏"],"file":"custom/ui/emotes/pray.png","height":8,"type":"bitmap"}
     ,{"ascent":8,"chars":["🤣"],"file":"custom/ui/emotes/rofl.png","height":8,"type":"bitmap"}
     ,{"ascent":8,"chars":["🤷"],"file":"custom/ui/emotes/person_shrugging.png","height":8,"type":"bitmap"}
-    ,{"ascent":8,"chars":["󰀀"],"file":"custom/ui/version.png","height":8,"type":"bitmap"}
+    ,{"ascent":7,"chars":["󰀀"],"file":"custom/ui/version.png","height":8,"type":"bitmap"}
     ]}

@@ -1,3 +1,4 @@
+    1.19v1.0
     Moved goddamn everything to github, updated text documents
     updated pack format to 9
     Updated lang file, splashes for new version
@@ -22,6 +23,8 @@
     adjusted status icon background
     transitioned compass/clock single-contributer for consistency, added recovery compass
     adjust voice chat menu for new version
+    fixed doors
+    fixed version cahracter ascent
 
     In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
         fortis

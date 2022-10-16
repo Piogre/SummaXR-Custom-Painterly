@@ -1,13 +1,12 @@
     Next version:
         CHECK
         NEW
-            doors FIX DOORS
 
     When i get to it:
+        potentially check for more warden/sculk?
         redstone fix?
         failsafe text for inventory menus
         custom leather?  see what oraxen does
-        move this whole ass thing to git?
         
     On request:
         supporter skins?

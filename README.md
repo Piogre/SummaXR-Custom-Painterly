@@ -1,4 +1,4 @@
-# Piogre's SummaXR Painterly Pack Build 1.18v1.1
+# Piogre's SummaXR Painterly Pack Build 1.19v1.0
 
 This pack is intended for use by the SummaXR server as a server resource pack.
 
@@ -11,7 +11,7 @@ A full list of acknowledgements can be found in acknowledgements.txt
 ---
 
     This pack was moved to github, resulting in some structural changes.
-    a new build did not accompany this change, but the next new build will be on github.
+    a new build did not accompany this change, but the next new build will be on github. (EDIT: 1.19v1.0)
 
     Previous iterations of the readme are included below:
 
