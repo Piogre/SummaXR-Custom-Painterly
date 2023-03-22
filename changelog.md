@@ -1,3 +1,19 @@
+The Checksum of the previous pack below: 438a5e3d9d8915099bd3b184d4c3c565b3c6ed87
+
+---
+
+    1.19v1.1
+    Fixed Creative Menu tabs for new version
+    Replaced Vex with new version that's not broken
+    Added custom and customnoredist folders to blocks atlas so they get loaded properly
+    updated en_us.json to match vanilla
+    updated splashes.txt to match vanilla
+    updated feature-compatibility version character
+
+    In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
+        WarLord#2912
+        fortis#6320
+
 ---
 
 The Checksum of the previous pack below: 679d493c452240f8031614c106182c64b6a04c11 

@@ -12,8 +12,9 @@ Contributors from the Painterly Pack Fan Continuation Project (https://discord.g
     Twerps3
     Mercuriomc
     Morlaer
-    fortis
+    fortis#6320
     Wolf Waifu~
+    WarLord#2912
 
 This pack imitates the structure and template of the "Simple Voice Chat" mod in order to support it
 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat -- currently supports 1.18.2-2.2.32

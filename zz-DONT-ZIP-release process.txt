@@ -1,6 +1,6 @@
 make sure to change font back to sxrmenus
 make sure font guide and cmd quicksheet up to date
-make sure if new MC version, fix texts/splashes and lang/en_us
+make sure if new MC version, fix atlases, texts/splashes and lang/en_us
 search for hanging temp files
 review for any missing changelog entries
 review for any obsolete upcoming entries
