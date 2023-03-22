@@ -1,4 +1,4 @@
-The Checksum of the previous pack below: 438a5e3d9d8915099bd3b184d4c3c565b3c6ed87
+The Checksum of the previous pack below: ba2fddf7b471cedefa3df0893203d6c7283a30e9
 
 ---
 
@@ -9,6 +9,7 @@ The Checksum of the previous pack below: 438a5e3d9d8915099bd3b184d4c3c565b3c6ed8
     updated en_us.json to match vanilla
     updated splashes.txt to match vanilla
     updated feature-compatibility version character
+    updated pack format to 12
 
     In addition to contributors to previous versions of this pack, this version includes new contributions from the following creators on the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
         WarLord#2912
