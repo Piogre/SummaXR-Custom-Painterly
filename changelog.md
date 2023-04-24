@@ -1,3 +1,8 @@
+    Removed insecure-chat toast and toast sound
+    added checkmark image in gui
+
+---
+
 The Checksum of the previous pack below: ba2fddf7b471cedefa3df0893203d6c7283a30e9
 
 ---
