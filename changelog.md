@@ -1,4 +1,3 @@
-    Removed insecure-chat toast and toast sound
     added checkmark image in gui
 
 ---
