@@ -1,12 +1,13 @@
     Next version:
         CHECK
         NEW
+        FIX
 
     When i get to it:
-        potentially check for more warden/sculk?
         redstone fix?
+        menus font transparency fix?
         failsafe text for inventory menus
-        custom leather?  see what oraxen does
+        custom leather?  see what oraxen does?
         
     On request:
         supporter skins?

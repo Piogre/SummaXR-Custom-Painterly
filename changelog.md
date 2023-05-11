@@ -1,4 +1,29 @@
+The Checksum of the previous pack below: 841e9480ca64a6b32aeddbb1ef9ec334f1b5baab
+
+---
+
+    1.19v1.2
     added checkmark image in gui
+    added snow screen overlay
+    added painterly-esque minecraft menu titlecard
+    added info icon, unseen notif icon
+    added header/footer separator
+    added light_dirt_background
+    added slider, tab gui elements
+    updated empty armor slots and added new empty slots (note for future me: H40S07B40C-10)
+    fixed advancements, creatice inventory tabs
+    fixed legacy smithing table gui
+    fixed blocks atlas to make additive
+    Added wand texture for debug stick
+    changed volume icon name for voice chat to match mod update
+    fixed create group gui for voice chat to match mod update
+    updated en_us.json to match vanilla
+    updated splashes.txt to match vanilla
+    updated feature-compatibility version character
+    updated pack format to 13
+
+    This pack adds additional contributions from the Painterly Pack Fan Continuation Project (https://discord.gg/HFxBurd):
+        textures included in 1.19.4 pack assembled by fortis#6320
 
 ---
 

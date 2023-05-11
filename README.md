@@ -1,4 +1,4 @@
-# Piogre's SummaXR Painterly Pack Build 1.19v1.1
+# Piogre's SummaXR Painterly Pack Build 1.19v1.2
 
 This pack is intended for use by the SummaXR server as a server resource pack.
 
@@ -60,7 +60,7 @@ A full list of acknowledgements can be found in acknowledgements.txt
 
     1.16v1
     The contained pack is an effort by Piogre to convert the SummaXR Custom Painterly pack to 1.16 as completely and accurately as possible.
-    The Painterly pack was originally created by Rhodox http://painterlypack.net/, and continued additions were made to the pack by GerbilCrab475 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2745841-painterly-pack-continuation-project-fan-patch
+    The Painterly pack was originally created by Rhodox https://web.archive.org/web/20220412003025/painterlypack.net/ and continued additions were made to the pack by GerbilCrab475 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2745841-painterly-pack-continuation-project-fan-patch
     This pack only contains adjustments made to combine textures from the above sources to a single pack which functions in 1.16.  Minimal additional content has been added.  If a decision is made to add new textures for new game features, it will be done in a new version.
     There are no plans to redistribute this beyond providing it to the server owner who provided Piogre with the base pack to make adjustments to.
 

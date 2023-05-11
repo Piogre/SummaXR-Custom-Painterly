@@ -2,16 +2,6 @@
     "sources": [
         {
             "type": "directory",
-            "source": "block",
-            "prefix": "block/"
-        },
-        {
-            "type": "directory",
-            "source": "item",
-            "prefix": "item/"
-        },
-        {
-            "type": "directory",
             "source": "custom",
             "prefix": "custom/"
         },
@@ -19,19 +9,6 @@
             "type": "directory",
             "source": "customnoredist",
             "prefix": "customnoredist/"
-        },
-        {
-            "type": "directory",
-            "source": "entity/conduit",
-            "prefix": "entity/conduit/"
-        },
-        {
-            "type": "single",
-            "resource": "entity/bell/bell_body"
-        },
-        {
-            "type": "single",
-            "resource": "entity/enchanting_table_book"
         }
     ]
 }
