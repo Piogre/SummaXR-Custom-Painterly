@@ -15,5 +15,5 @@ zip packs
 get the new checksum, add to changelog
 PUSH git, create release with checksum
 post packs on discord with checksum
-update tinyurl.com/summaxrpack                   ****REMOVE: high contrast info
+update tinyurl.com/summaxrpack
 update custommodeldata in wahr's repo, and any changes seen fit
