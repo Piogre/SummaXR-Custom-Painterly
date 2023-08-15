@@ -1,0 +1,173 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_dot"
+      },
+      "when": 
+      {
+            "east": "none",
+            "north": "none",
+            "south": "none",
+            "west": "none"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross"
+      },
+      "when": 
+      {
+            "east": "side|up",
+            "north": "side|up",
+            "south": "side|up",
+            "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_side"
+      },
+      "when": {
+        "north": "side|up",
+        "south": "side|up",
+        "east": "none",
+        "west": "none"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_side_alt"
+      },
+      "when": {
+        "east": "side|up",
+        "west": "side|up",
+        "north": "none",
+        "south": "none"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_es"
+      },
+      "when": {
+        "north": "none",
+        "east": "side|up",
+        "south": "side|up",
+        "west": "none"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_esw"
+      },
+      "when": {
+        "north": "none",
+        "east": "side|up",
+        "south": "side|up",
+        "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_ne"
+      },
+      "when": {
+        "north": "side|up",
+        "east": "side|up",
+        "south": "none",
+        "west": "none"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_nes"
+      },
+      "when": {
+        "north": "side|up",
+        "east": "side|up",
+        "south": "side|up",
+        "west": "none"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_new"
+      },
+      "when": {
+        "north": "side|up",
+        "east": "side|up",
+        "south": "none",
+        "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_nsw"
+      },
+      "when": {
+        "north": "side|up",
+        "east": "none",
+        "south": "side|up",
+        "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_nw"
+      },
+      "when": {
+        "north": "side|up",
+        "east": "none",
+        "south": "none",
+        "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_cross_sw"
+      },
+      "when": {
+        "north": "none",
+        "east": "none",
+        "south": "side|up",
+        "west": "side|up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_up"
+      },
+      "when": {
+        "north": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_up",
+        "y": 90
+      },
+      "when": {
+        "east": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_up",
+        "y": 180
+      },
+      "when": {
+        "south": "up"
+      }
+    },
+    {
+      "apply": {
+        "model": "minecraft:block/redstone_dust_up",
+        "y": 270
+      },
+      "when": {
+        "west": "up"
+      }
+    }
+  ]
+}

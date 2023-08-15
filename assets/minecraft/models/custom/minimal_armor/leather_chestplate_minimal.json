@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:custom/minimal_armor/leather_chestplate_minimal",
-    "layer1": "minecraft:custom/minimal_armor/leather_chestplate_minimal_overlay"
-  }
-}

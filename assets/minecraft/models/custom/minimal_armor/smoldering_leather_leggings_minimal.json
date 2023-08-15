@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:custom/minimal_armor/smoldering_leather_leggings_minimal",
-    "layer1": "minecraft:custom/minimal_armor/smoldering_leather_leggings_minimal_overlay"
-  }
-}

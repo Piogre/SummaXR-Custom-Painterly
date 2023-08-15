@@ -1,3 +1,10 @@
+    1.20v1.0
+    Removed all custom armor/elytra models/textures to add temporary trim-compatible armor
+    re-added "wire" redstone texture
+    updated pack format to 1.20
+
+---
+
 The Checksum of the previous pack below: 841e9480ca64a6b32aeddbb1ef9ec334f1b5baab
 
 ---
