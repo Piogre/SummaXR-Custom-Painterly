@@ -12,8 +12,11 @@
 			redstone fix?
 			title
             ore shadows including deepslate
-            iron trapdoor
             slicer?
+            warped/crimson signs
+            all the goddamn boats
+            check remaining wood
+            panorama, pack.png (wood changed)
 
     When i get to it:
         menus font transparency fix?

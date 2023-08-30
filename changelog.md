@@ -1,6 +1,11 @@
     1.20v1.0
     Removed all custom armor/elytra models/textures to add temporary trim-compatible armor
     re-added "wire" redstone texture
+    Updated all wood textures, added cherry/bamboo textures
+    fixed scaffholding to match bamboo
+    fixed trapdoor orientation again -- this time all orientable
+    updated signs, added hanging signs
+    updated chain textures to match hanging signs
     updated pack format to 1.20
 
 ---
