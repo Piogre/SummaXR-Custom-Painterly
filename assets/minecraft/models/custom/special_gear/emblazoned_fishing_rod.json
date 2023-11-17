@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/handheld_rod",
-  "textures": {
-    "layer0": "minecraft:custom/special_gear/emblazoned_fishing_rod"
-  }
-}

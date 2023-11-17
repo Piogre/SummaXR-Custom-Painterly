@@ -1,12 +1,41 @@
     1.20v1.0
-    Removed all custom armor/elytra models/textures to add temporary trim-compatible armor
-    re-added "wire" redstone texture
-    Updated all wood textures, added cherry/bamboo textures
-    fixed scaffholding to match bamboo
-    fixed trapdoor orientation again -- this time all orientable
-    updated signs, added hanging signs
-    updated chain textures to match hanging signs
-    updated pack format to 1.20
+    updated pack format to 18
+    Gutted pack for new "layer over default pack" paradigm
+    added restone wire fix
+    "fixed" water
+    fixed wool, carpet
+    fixed colored terra cotta, shulkers
+    re-vanilla'd banners for design consistency
+    fixed glowstone, rails, paintings, torches
+    fixed blackstone, nether brick, nether quartz ore
+    fixed beds
+    fixed iron golem
+    fixed item frames
+    fixed eye of ender model
+    fixed elytra, emerald, porkchop
+    removed java edition subtitle
+    fixed crosshair, swing indicator
+    fixed frozen hearts and effect square
+    fixed dirt path
+    fixed crafting table, loom, chests, chest boats, note blocks
+    fixed sandstone
+    fixed container guis
+    updated pack.png
+    re-removed inventory subtitle, re-added custom splashes
+    re-added optifine CTM textures
+    re-fix honey drink sound
+    set static title screen
+    re-added custom models/materials:
+        menu arrows (arrow)
+        phantasmal bones (bone)
+        cheese (bread)
+        tiered gear buttons for forger (diamond)
+        gems, crystallized xp (emerald)
+        alcohol bottles empty and full (glass_bottle, honey_bottle)
+        tribute (gold_nugget)
+        dark matter (nether_star)
+        adventurer's crystal (prismarine_crystals)
+        new player's guide (written_book)
 
 ---
 
