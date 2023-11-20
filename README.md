@@ -21,7 +21,7 @@ Currently supports henkelmax's Simple Voice Chat mod 1.20.2v2.4.28
 
     1.20v1.0
     
-    This pack has been stripped of most of its assets, and is now intended to be layered atop whatever the current paiterly continuation base pack is.
+    This pack has been stripped of most of its assets, and is now intended to be layered atop whatever the current painterly continuation base pack is.
     This will likely reduce update debt on my part
 
 ---
