@@ -14,7 +14,7 @@ zip packs
 PUSH git, create release
 update server version docs
 create server version, zip, get checksum
-add checksum to server changelog and release
+release server version with checksum
 update custommodeldata in wahr's repo, and any changes seen fit
 post packs on discord
 update tinyurl.com/summaxrpack
