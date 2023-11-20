@@ -37,7 +37,6 @@
         adventurer's crystal (prismarine_crystals)
         new player's guide (written_book)
         voicechat textures, now supports 1.20.2v2.4.28
-    updated version character
 
 ---
 

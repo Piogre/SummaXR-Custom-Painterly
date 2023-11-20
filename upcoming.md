@@ -1,15 +1,4 @@
     Next version:
-        
-        REVISED PACK STRUCTURE:
-            X initial changelog revision
-            X determine definite deviations
-            X add definite deviations
-            X determine needed extras
-            X revise extras documentation, remove non-needed extras
-            X new pack.png and panorama
-            rewrite documentation
-            review release process
-            release
         CHECK
         NEW
         FIX
