@@ -1,3 +1,9 @@
+---
+
+Due to release changes no longer posting checksums here, listing in release page
+
+---
+
     1.20v1.0
     updated pack format to 18
     Gutted pack for new "layer over default pack" paradigm

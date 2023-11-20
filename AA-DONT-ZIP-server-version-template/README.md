@@ -1,7 +1,7 @@
 # Piogre's SummaXR Painterly Pack Build 1.20v1.0SERVER
 
 This pack combines Piogre's SummaXR Painterly Pack 1.20v1.0 with 1.20_Painterly_-_Base
-This mising to a single pack allows it to be used as a server resource pack
+This mixing to a single pack allows it to be used as a server resource pack
 It is recommended to run the packs separately when running locally
 
 Readme for Piogre's pack is found below, and other documentation is in this directory.
