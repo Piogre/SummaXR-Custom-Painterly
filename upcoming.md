@@ -4,11 +4,12 @@
         FIX
 
     Immediate followup:
-        new screenshots from wahr
-        Vanilla
         menus font transparency fix?
         failsafe text for inventory menus
-        toast blocker (make separate patch)        
+        new screenshots from wahr
+        Vanilla
+        toast blocker (make separate patch)
+        review patches        
 
     When i get to it:
         custom leather?  see what oraxen does? <-- WAY postpone until regular armor where we want it
