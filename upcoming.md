@@ -7,7 +7,7 @@
         menus font transparency fix?
         failsafe text for inventory menus
         new screenshots from wahr
-        Vanilla
+        Vanilla (done through last version, need adjustments for above)
         toast blocker (make separate patch)
         review patches        
 

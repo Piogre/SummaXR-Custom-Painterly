@@ -1,3 +1,6 @@
+    1.20v1.0
+    re-updated main menu title card to dark stone texture
+
 ---
 
 Due to release changes no longer posting checksums here, listing in release page
