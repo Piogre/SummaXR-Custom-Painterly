@@ -4,14 +4,11 @@
         FIX
 
     Immediate followup:
-        menus font transparency fix?
-        failsafe text for inventory menus
         new screenshots from wahr
-        Vanilla (done through last version, need adjustments for above)
-        toast blocker (make separate patch)
-        review patches        
 
     When i get to it:
+        review patches        
+        toast blocker (make separate patch)
         custom leather?  see what oraxen does? <-- WAY postpone until regular armor where we want it
         guns patch
         armor trim revision?  maybe with burnished etc?

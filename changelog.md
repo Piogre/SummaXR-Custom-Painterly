@@ -1,5 +1,7 @@
-    1.20v1.0
+    1.20v1.1
     re-updated main menu title card to dark stone texture
+    Rewrote custom container titles to add vanilla failthrough titles (server code change only, pushed in Denizen scripts)
+    Rewrote custom container titles to work around broken transparency in bitmap fonts
 
 ---
 

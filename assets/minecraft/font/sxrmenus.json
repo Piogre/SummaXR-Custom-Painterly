@@ -2,13 +2,13 @@
     ,{"ascent":-4,"chars":[""],"file":"custom/ui/backgrounds/blackstone-grid-1-6.png","height":107,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/blackstone-base-5.png","height":203,"type":"bitmap"}
     ,{"ascent":-40,"chars":[""],"file":"custom/ui/backgrounds/blackstone-grid-3-5.png","height":53,"type":"bitmap"}
-    ,{"ascent":-23,"chars":[""],"file":"custom/ui/backgrounds/sunbeams.png","height":52,"type":"bitmap"}
-    ,{"ascent":-23,"chars":[""],"file":"custom/ui/backgrounds/darkmatter.png","height":52,"type":"bitmap"}
+    ,{"ascent":-40,"chars":[""],"file":"custom/ui/backgrounds/socket-background-3-5.png","height":53,"type":"bitmap"}
+    ,{"ascent":-40,"chars":[""],"file":"custom/ui/backgrounds/forger-background-3-7.png","height":88,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/itempotential-title.png","height":42,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/green-base-6.png","height":221,"type":"bitmap"}
     ,{"ascent":-22,"chars":[""],"file":"custom/ui/backgrounds/green-grid-2-5.png","height":71,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/minigolfrentals-title.png","height":30,"type":"bitmap"}
-    ,{"ascent":-59,"chars":[""],"file":"custom/ui/backgrounds/sunbeams.png","height":52,"type":"bitmap"}
+    ,{"ascent":-999999,"chars":[""],"file":"custom/ui/backgrounds/sunbeams.png","height":52,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/picture-base-6.png","height":221,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/activequests-title.png","height":34,"type":"bitmap"}
     ,{"ascent":13,"chars":[""],"file":"custom/ui/backgrounds/availablequests-title.png","height":34,"type":"bitmap"}

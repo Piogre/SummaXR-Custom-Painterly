@@ -6,13 +6,13 @@ E000 - blackstone-base-6
 E001 - blackstone-grid-1-6
 E002 - blackstone-base-5
 E003 - blackstone-grid-3-5
-E004 - sunbeams
-E005 - darkmatter
+E004 - socket-background-3-5
+E005 - forger-background-3-7
 E006 - Item Potential Title
 E007 - green-base-6
 E008 - green-grid-2-5
 E009 - Mini Golf Rentals Title
-E00A - sunbeams lower
+E00A - UNUSED
 E00B - picture-base-6
 E00C - Active Quests Title
 E00D - Available Quests Title
