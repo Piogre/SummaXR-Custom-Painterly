@@ -3,9 +3,6 @@
         NEW
         FIX
 
-    Immediate followup:
-        new screenshots from wahr
-
     When i get to it:
         review patches        
         toast blocker (make separate patch)
@@ -16,6 +13,7 @@
     On request:
         
     Awaiting third party:
+        new screenshots from wahr
         emotes (pending wahr actually using them)
         revisit water? (have this working with optifine but it breaks for non-optifine; been asking about a way to load one-or-other)
         custom enchantment glint? (currently broken in optifine)
