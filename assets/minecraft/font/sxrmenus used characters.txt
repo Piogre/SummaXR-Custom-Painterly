@@ -135,4 +135,4 @@ Graphics licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
 1F923 - rofl
 1F937 - person shrugging (using image for "woman shrugging")
 ================Version Character
-F0000 - Version Character (1.20v1.0 in #b(aqua|#55FFFF))
+F0000 - Version Character (1.20v1.1 in §3(dark_aqua|#00AAAA))
